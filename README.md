@@ -1,4 +1,4 @@
-# Pymaceuticals - Module Challenge 5
+# Pymaceuticals - Clinical Trial Data Analysis 
 
 ![Pymaceuticals](https://github.com/SakinaJaffri/Module_Challenge5_Pymaceuticals/assets/146900226/58474905-b3be-45f9-9162-0a6405ad1310)
 
