@@ -1,32 +1,43 @@
-# Module_Challenge5_Pymaceuticals
-What good is data without a good plot to tell the story?
+# Pymaceuticals - Module Challenge 5
 
-In this assignment, you’ll apply what you've learned about Matplotlib to a real-world situation and dataset.
+![Pymaceuticals](https://github.com/SakinaJaffri/Module_Challenge5_Pymaceuticals/assets/146900226/58474905-b3be-45f9-9162-0a6405ad1310)
 
-![27788_30-3-2021_23-25-59](https://github.com/SakinaJaffri/Module_Challenge5_Pymaceuticals/assets/146900226/58474905-b3be-45f9-9162-0a6405ad1310)
+## Overview
 
-Background:
-You've just joined Pymaceuticals, Inc., a new pharmaceutical company that specializes in anti-cancer medications. Recently, it began screening for potential treatments for squamous cell carcinoma (SCC), a commonly occurring form of skin cancer.
-As a senior data analyst at the company, you've been given access to the complete data from their most recent animal study. In this study, 249 mice who were identified with SCC tumors received treatment with a range of drug regimens. Over the course of 45 days, tumor development was observed and measured. The purpose of this study was to compare the performance of Pymaceuticals’ drug of interest, Capomulin, against the other treatment regimens.
-The executive team has tasked you with generating all of the tables and figures needed for the technical report of the clinical study. They have also asked you for a top-level summary of the study results.
+In this project, you'll apply data visualization skills using **Matplotlib** to analyze a pharmaceutical company's clinical trial data. The data relates to the effectiveness of drug regimens for treating **squamous cell carcinoma (SCC)**, a common form of skin cancer. The study tracks the tumor development in 249 mice over 45 days using various drug treatments, with a focus on the drug **Capomulin**.
 
+## Objective
 
-Instructions
+As a senior data analyst at **Pymaceuticals, Inc.**, your task is to analyze the clinical study data and generate plots and tables for a technical report. You'll also provide a high-level summary of the results.
 
+## Tasks
 
-This assignment is broken down into the following tasks:
+1. **Prepare the data**: Clean and organize the dataset for analysis.
+2. **Generate summary statistics**: Calculate key statistics for the dataset, including mean, median, and standard deviation.
+3. **Create bar and pie charts**: Visualize the distribution of drug regimens and gender of the mice.
+4. **Calculate quartiles and outliers**: Perform statistical analysis on tumor volume data and create a box plot to display outliers.
+5. **Create line and scatter plots**: Visualize tumor volume trends and analyze the relationship between variables.
+6. **Correlation and regression analysis**: Calculate the correlation and regression between mouse weight and average tumor volume.
+7. **Final analysis**: Provide a top-level summary of the findings.
 
+## Technologies Used
 
-•	Prepare the data
+- **Python**
+- **Matplotlib**
+- **Pandas**
+- **Scipy**
 
-•	Generate summary statistics.
+## How to Run
 
-•	Create bar charts and pie charts.
+1. Clone the repository to your local machine.
+2. Install the required dependencies listed in `requirements.txt`.
+3. Run the Jupyter Notebook to generate the plots and tables.
+4. Review the final analysis summary for insights from the clinical study.
 
-•	Calculate quartiles, find outliers, and create a box plot.
+## Summary
 
-•	Create a line plot and a scatter plot.
+This analysis provides insights into the performance of the drug **Capomulin** compared to other treatments, identifying key findings such as tumor size reduction and treatment effectiveness across different regimens. The results will be used for reporting to the executive team and guiding future studies.
 
-•	Calculate correlation and regression.
+## Contributors
 
-•	Submit your final analysis.
+- **Sakina Jaffri** - Project Developer
